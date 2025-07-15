@@ -50,8 +50,11 @@ This project encourages a mix of automation (data scraping) and critical human a
 More about the assignment:
 
 -Initially, I attempted to use OpenAI’s GPT API to automatically generate the persona summaries from the scrapped text.
+
 -Due to quota limitation on the API key, I was unable to include this automated step in the final version
+
 -The current version therefore includes manual persona summaries, as also allowed in the assignment instructions
+
 -The code framework for integrating an LLM can be added easily in the future for providing an active OpenAI API key.
 
 
