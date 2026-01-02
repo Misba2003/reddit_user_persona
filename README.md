@@ -59,7 +59,6 @@ More about the assignment:
 
 
 Contact:
-+91 9224591849
 misbayadgiri786@gmail.com
 Regards,
 Misba Yadgiri
